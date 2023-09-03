@@ -19,7 +19,7 @@ Decision Tree is a Supervised learning technique that can be used for both class
 9.**Impurity**<br/>
 10.**Splitting**
 
- <img src="https://i.ytimg.com/vi/ZVR2Way4nwQ/maxresdefault.jpg"> <img src="https://miro.medium.com/max/688/1*bcLAJfWN2GpVQNTVOCrrvw.png"> <img src="#"> <img src="#"> <img src="#">
+ <img src="https://miro.medium.com/max/688/1*bcLAJfWN2GpVQNTVOCrrvw.png"> <img src="#"> <img src="#"> <img src="#">
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
       
