@@ -23,7 +23,7 @@ Decision Tree is a Supervised learning technique that can be used for both class
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
       
-**Follow me**
+**Follow me**<br/>
 [Links](https:[//itsvg.in](https://www.facebook.com/emamul.hossen.503))
  
 ![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
